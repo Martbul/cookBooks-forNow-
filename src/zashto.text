@@ -1,0 +1,6 @@
+izpolzvame clasove za da imame zadalgitelni promenlivi - tezi v konstruktore i za da ne e nugno da nestvame funkciite ot views, za da se izpolzava ctx na po- gornata funciq
+
+baindvat se funkciite zahtoto funciqta e povikana bez kontekst i taka veche imame dostyp do this
+
+polzi ot klasove - mojem po lesno da smenim templejtite , ima po malko svyrzanost(promenlivite v construktora)
+, ne e nujno da se promqt klasovete(construktora) ako smenim templeita , nqma nestnati fukcii izpolzvashti ctx
